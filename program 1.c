@@ -56,3 +56,17 @@ int main()
          }
          return 0;
  }
+//
+output
+==========BITWISE OPERATIONS ===========
+ Enter the first number: 12 
+ Enter the second number: 5
+  ----- MENU ----- 
+ 1. Bitwise AND (&) 
+ 2. Bitwise OR (|)
+ 3. Bitwise XOR (^)
+ 4. Bitwise NOT (~) 
+ 5. Left Shift (<<)
+ 6. Right Shift (>>) 
+ Enter your choice: 1 
+ Bitwise AND Result = 4
