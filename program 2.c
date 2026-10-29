@@ -49,21 +49,17 @@ int main()
  }
 //
 OUTPUT 
-========BITWISE OPERATIONS ======
-  Enter the first number: 12
-  Enter the second number: 5
-   ----- MENU -----
-  1. Bitwise AND (&)
-  2. Bitwise OR (|)  
-  3. Bitwise XOR (^) 
-  4. Bitwise NOT (~)  
-  5. Left Shift (<<)
-  6. Right Shift (>>) 
-  Enter your choice: 1
-  Bitwise AND Result = 4
-    
-
-
+===== OPERATORS AND EXPRESSIONS =====  
+    Enter the first number: 20  
+    Enter the second number: 10  
+      ----- MENU -----
+       1. Addition
+       2. Subtraction 
+       3. Multiplication 
+       4. Division
+       5. Modulus 
+   Enter your choice: 1
+   Result = 30
    
            
   
